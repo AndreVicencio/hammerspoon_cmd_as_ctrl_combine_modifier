@@ -14,3 +14,10 @@ So instead I can bind SPOTLIGHT to CTRL + OPTION + Space. However I don't want t
 
 ## Why Hammerspoon?
 You can perform the same solution with a Key Binding application like Karabiner, and I have and it might even be a more robust solution, but unfortunately I can't get Karabiner to work on my corporate MacOS because Karabiner requires driver installations which is beyond my privelages.
+
+## Installation
+1. Install hammerscript
+2. Run Hammerspoon and give it requestted permissions
+3. Right click the Hammerspoon icon > Open Config
+4. Copy init.lua to the config
+5. Reload script to apply
